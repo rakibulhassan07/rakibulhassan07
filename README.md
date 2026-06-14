@@ -30,7 +30,7 @@
 
 - 📍 Based in Bangladesh
 
-- 📫 Reach me at: **rakibalhassan523@gmail.com**
+- 📫 Reach me at: **rakibulhassan5523@gmail.com**
 
 
 
