@@ -20,6 +20,8 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" width="400" src="https://github.com/rakibulhassan07/rakibulhassan07/blob/main/programming.gif?raw=true">
+
 I'm a **Java Backend Developer** passionate about building clean, scalable, and reliable applications.
 
 * ☕ Specialized in **Java & Spring Boot**
