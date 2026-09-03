@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rakibul Hassan
 
-### Backend Engineer • Cloud Enthusiast • Full Stack Developer
+### Backend Engineer • Cloud & DevOps Enthusiast • Full Stack Developer
 
 **Building scalable backend systems, production-ready applications, and modern web solutions.**
 
