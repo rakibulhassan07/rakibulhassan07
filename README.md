@@ -1,141 +1,115 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Rakibul+Hassan;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+# 👋 Hi, I'm Rakibul Hassan
+
+### Backend Engineer • Cloud Enthusiast • Full Stack Developer
+
+**Building scalable backend systems, production-ready applications, and modern web solutions.**
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;Backend+%26+Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Systems" alt="Typing SVG"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rakibulhassan07&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 
 </div>
 
+---
 
+## 👨‍💻 About Me
+
+I'm a **Java Backend Developer** passionate about building clean, scalable, and reliable applications.
+
+* ☕ Specialized in **Java & Spring Boot**
+* 🔐 Building secure applications with **Spring Security, JWT & OAuth2**
+* 🗄️ Working with **PostgreSQL, MySQL, MongoDB & Redis**
+* ⚛️ Experienced with **React** for full-stack development
+* 🐳 Exploring **Docker, CI/CD & AWS**
+* ⚡ Interested in **real-time systems & scalable architectures**
+* 🚀 Focused on becoming a strong **Backend & Cloud Engineer**
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=rakibulhassan07&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+### Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+
+### Database & Cache
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,githubactions" />
 
 </div>
 
+---
 
+## 🔥 What I'm Working With
+
+```text
+Java              Spring Boot
+Spring Security   REST API
+PostgreSQL        Redis
+React             WebSocket
+Docker            AWS
+Git & GitHub      CI/CD
+```
 
 ---
 
 
 
-### 👨‍💻 About Me
+## 📊 GitHub Contributions
 
+<div align="center">
+<br><br>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibulhassan07&theme=tokyonight&hide_border=true"/>
 
-- 🌱 I'm a junior web developer passionate about creating innovative web solutions
-
-- 🎓 Currently learning and exploring new technologies in web development
-
-- 💼 Open to collaborating on web development projects
-
-- 📍 Based in Bangladesh
-
-- 📫 Reach me at: **rakibulhassan5523@gmail.com**
-
-
+</div>
 
 ---
 
+## 🎯 Currently Learning
 
-
-### 🛠️ Tech Stack
-
-
-
-<div align="center">
-
-
-
-#### Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-
-#### Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-
-#### Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-
-</div>
-
-
+**System Design • AWS • Docker • CI/CD • Redis • Scalable Backend Architecture**
 
 ---
 
-
-
-### 🤝 Connect with me
-
-
+## 🤝 Connect With Me
 
 <div align="center">
 
-  
+<a href="https://www.linkedin.com/in/rh07/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rh07/)
+<a href="mailto:rakibulhassan5523@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100050761217691)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rakibul_hassan_07/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakibalhassan523@gmail.com)
-
-
+<a href="https://www.instagram.com/rakibul_hassan_07/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
-
-
----
-
-
-
-### 📊 GitHub Stats
-
-
+<br>
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rakibulhassan07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+**Building today. Scaling tomorrow. 🚀**
 
 </div>
-
-
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibulhassan07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhassan07&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-
-</div>
-
-
-
----
